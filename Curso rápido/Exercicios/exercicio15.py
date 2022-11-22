@@ -1,0 +1,2 @@
+###FAÇA UM PROGRAMA QUE DADA A ENTRADA DE UMA LISTA O PROGRAMA CALCULE A COMBINATÓRIA DE DOIS ELEMENTOS E NOS RETORNE AS COMBINAÇÕES EM UMA NOVA LISTA
+#Exemplo de entrada : [1, 2, 3, 4]    -->  Exemplo de saída [[1, 2], [1, 3], [1, 4], [2, 3], [2, 4], [3, 4]]
