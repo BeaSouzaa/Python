@@ -15,7 +15,7 @@ minha_lista = ['Arroz', 'Salada', 'Feijão', 10, [585,582,231]]
 for item in minha_lista:
     print(item)
 
-#Méetodos lista:
+#Métodos lista:
 # x [1, 2 ,3]
 # x.append(4) = [1,2,3,4]                     --> Coloca no final da lista o valor desejado
 # x.remove(2) = [1,3]                         --> Remove o valor indicado
