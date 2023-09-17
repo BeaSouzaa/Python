@@ -1,5 +1,5 @@
 
-def quadrado(lista_numeros):                                                        #definindo quadadra como lista_numeros
+def quadrado(lista_numeros):                                                        #definindo quadrada como lista_numeros
     lista_resposta = []
     for numero in lista_numeros:                                                    #Para cada número na lista de números
         lista_resposta.append(numero ** 2)                                          #Adiciona na lista_resposta e elevando cada número ao quadrado
