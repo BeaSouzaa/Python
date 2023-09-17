@@ -6,8 +6,6 @@
   <iframe src="https://giphy.com/embed/KAq5w47R9rmTuvWOWa" width="480" height="476" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-python-django-edr-KAq5w47R9rmTuvWOWa">via GIPHY</a>" alt="Python Snake Animation">
 </p>
 
-<!-- Sobre o Pr
-<!-- Sobre o Projeto -->ojeto -->
 ## About The Project
 
     Welcome to my Python Hub! I'm on a personal journey to master Python, and this repository is where it all... I don´t know.  
