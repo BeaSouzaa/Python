@@ -3,7 +3,7 @@
 <p align="center">Your Ultimate Python Knowledge Base</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="480" height="476" frameBorder="0" class="giphy-embed" allowFullScreen>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="240" height="238" frameBorder="10" class="giphy-embed" allowFullScreen>
 </p>
 
 ## About The Project
